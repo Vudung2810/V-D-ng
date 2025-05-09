@@ -1,0 +1,961 @@
+╞════════════════════════════════════════ Age ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     Age
+Łukasz Fabiański             POL        West Ham             GK           40-021
+Ashley Young                 ENG        Everton              DF,FW        39-304
+James Milner                 ENG        Brighton             MF           39-125
+BOTTOM 3:
+Name                         Nation     Team                 Position     Age
+Chidozie Obi-Martin          DEN        Manchester Utd       FW           17-161
+Mikey Moore                  ENG        Tottenham            FW           17-271
+Ethan Nwaneri                ENG        Arsenal              FW,MF        18-049
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ playing_time_matches ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     playing_time_matches
+Alex Iwobi                   NGA        Fulham               FW,MF        35.00
+Anthony Elanga               SWE        Nott'ham Forest      FW,MF        35.00
+Bernd Leno                   GER        Fulham               GK           35.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     playing_time_matches
+Brandon Austin               ENG        Tottenham            GK           1.00
+Chadi Riad                   MAR        Crystal Palace       DF           1.00
+Daniel Bentley               ENG        Wolves               GK           1.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ playing_time_starts ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     playing_time_starts
+Bernd Leno                   GER        Fulham               GK           35.00
+Bruno Guimarães              BRA        Newcastle Utd        MF           35.00
+Bryan Mbeumo                 CMR        Brentford            FW           35.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     playing_time_starts
+Ali Al Hamadi                IRQ        Ipswich Town         FW           0.00
+Antony                       BRA        Manchester Utd       DF,MF        0.00
+Ben Chilwell                 ENG        Crystal Palace       DF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ playing_time_minutes ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     playing_time_minutes
+Bernd Leno                   GER        Fulham               GK           3150.00
+David Raya                   ESP        Arsenal              GK           3150.00
+Dean Henderson               ENG        Crystal Palace       GK           3150.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     playing_time_minutes
+Brandon Austin               ENG        Tottenham            GK           90.00
+Chadi Riad                   MAR        Crystal Palace       DF           90.00
+Daniel Bentley               ENG        Wolves               GK           90.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ performance_goals ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     performance_goals
+Mohamed Salah                EGY        Liverpool            FW           28.00
+Alexander Isak               SWE        Newcastle Utd        FW           23.00
+Erling Haaland               NOR        Manchester City      FW           21.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     performance_goals
+Aaron Cresswell              ENG        West Ham             DF           0.00
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Abdukodir Khusanov           UZB        Manchester City      DF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ performance_assists ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     performance_assists
+Mohamed Salah                EGY        Liverpool            FW           18.00
+Jacob Murphy                 ENG        Newcastle Utd        FW           11.00
+Antonee Robinson             USA        Fulham               DF           10.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     performance_assists
+Aaron Cresswell              ENG        West Ham             DF           0.00
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Abdukodir Khusanov           UZB        Manchester City      DF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ performance_yellow_cards ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     performance_yellow_cards
+Saša Lukić                   SRB        Fulham               MF           12.00
+Morgan Gibbs-White           ENG        Nott'ham Forest      MF           11.00
+Will Hughes                  ENG        Crystal Palace       MF           11.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     performance_yellow_cards
+Abdul Fatawu Issahaku        GHA        Leicester City       FW           0.00
+Adam Webster                 ENG        Brighton             DF           0.00
+Albert Grønbaek              DEN        Southampton          FW,MF        0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ performance_red_cards ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     performance_red_cards
+Bruno Fernandes              POR        Manchester Utd       MF           2.00
+Jack Stephens                ENG        Southampton          DF           2.00
+Myles Lewis-Skelly           ENG        Arsenal              DF           2.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     performance_red_cards
+Aaron Cresswell              ENG        West Ham             DF           0.00
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Aaron Wan-Bissaka            ENG        West Ham             DF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ expected_xg ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     expected_xg
+Mohamed Salah                EGY        Liverpool            FW           24.00
+Erling Haaland               NOR        Manchester City      FW           20.80
+Alexander Isak               SWE        Newcastle Utd        FW           19.90
+BOTTOM 3:
+Name                         Nation     Team                 Position     expected_xg
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Abdukodir Khusanov           UZB        Manchester City      DF           0.00
+Adam Webster                 ENG        Brighton             DF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ expected_xag ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     expected_xag
+Mohamed Salah                EGY        Liverpool            FW           13.20
+Cole Palmer                  ENG        Chelsea              MF           10.00
+Son Heung-min                KOR        Tottenham            FW           8.20
+BOTTOM 3:
+Name                         Nation     Team                 Position     expected_xag
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Albert Grønbaek              DEN        Southampton          FW,MF        0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ progression_prgc ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     progression_prgc
+Jeremy Doku                  BEL        Manchester City      FW,MF        189.00
+Mohamed Salah                EGY        Liverpool            FW           143.00
+Noni Madueke                 ENG        Chelsea              FW           142.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     progression_prgc
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alex Palmer                  ENG        Ipswich Town         GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ progression_prgp ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     progression_prgp
+Bruno Fernandes              POR        Manchester Utd       MF           281.00
+Joško Gvardiol               CRO        Manchester City      DF           251.00
+Bruno Guimarães              BRA        Newcastle Utd        MF           247.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     progression_prgp
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alisson                      BRA        Liverpool            GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ progression_prgr ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     progression_prgr
+Mohamed Salah                EGY        Liverpool            FW           440.00
+Bryan Mbeumo                 CMR        Brentford            FW           319.00
+Alejandro Garnacho           ARG        Manchester Utd       MF,FW        281.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     progression_prgr
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alex Palmer                  ENG        Ipswich Town         GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ per_90_goals ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     per_90_goals
+Jáder Durán                  COL        Aston Villa          FW           0.99
+Donyell Malen                NED        Aston Villa          FW           0.92
+James Mcatee                 ENG        Manchester City      MF,FW        0.89
+BOTTOM 3:
+Name                         Nation     Team                 Position     per_90_goals
+Aaron Cresswell              ENG        West Ham             DF           0.00
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Abdukodir Khusanov           UZB        Manchester City      DF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ per_90_assists ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     per_90_assists
+Tyrique George               ENG        Chelsea              FW           0.87
+Danny Ings                   ENG        West Ham             FW,MF        0.63
+Bukayo Saka                  ENG        Arsenal              FW,MF        0.58
+BOTTOM 3:
+Name                         Nation     Team                 Position     per_90_assists
+Aaron Cresswell              ENG        West Ham             DF           0.00
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Abdukodir Khusanov           UZB        Manchester City      DF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ per_90_xg ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     per_90_xg
+James Mcatee                 ENG        Manchester City      MF,FW        0.83
+Erling Haaland               NOR        Manchester City      FW           0.76
+Danny Ings                   ENG        West Ham             FW,MF        0.72
+BOTTOM 3:
+Name                         Nation     Team                 Position     per_90_xg
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Abdukodir Khusanov           UZB        Manchester City      DF           0.00
+Adam Webster                 ENG        Brighton             DF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ per_90_xag ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     per_90_xag
+Tyrique George               ENG        Chelsea              FW           0.63
+Mykhailo Mudryk              UKR        Chelsea              FW           0.58
+Luis Sinisterra              COL        Bournemouth          FW,MF        0.54
+BOTTOM 3:
+Name                         Nation     Team                 Position     per_90_xag
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alex Palmer                  ENG        Ipswich Town         GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ goalkeeping_ga90 ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     goalkeeping_ga90
+Altay Bayındır               TUR        Manchester Utd       GK           4.00
+Danny Ward                   WAL        Leicester City       GK           4.00
+Christian Walton             ENG        Ipswich Town         GK           2.67
+BOTTOM 3:
+Name                         Nation     Team                 Position     goalkeeping_ga90
+Daniel Bentley               ENG        Wolves               GK           0.00
+Jason Steele                 ENG        Brighton             GK           0.50
+David Raya                   ESP        Arsenal              GK           0.89
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ goalkeeping_save_pct ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     goalkeeping_save_pct
+Daniel Bentley               ENG        Wolves               GK           100.00
+Neto                         BRA        Bournemouth          GK           84.60
+Mark Travers                 IRL        Bournemouth          GK           80.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     goalkeeping_save_pct
+Altay Bayındır               TUR        Manchester Utd       GK           33.30
+Danny Ward                   WAL        Leicester City       GK           40.00
+Brandon Austin               ENG        Tottenham            GK           50.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ goalkeeping_cs_pct ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     goalkeeping_cs_pct
+Daniel Bentley               ENG        Wolves               GK           100.00
+Hákon Rafn Valdimarsson      ISL        Brentford            GK           100.00
+Robin Olsen                  SWE        Aston Villa          GK           100.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     goalkeeping_cs_pct
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alex Palmer                  ENG        Ipswich Town         GK           0.00
+Altay Bayındır               TUR        Manchester Utd       GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ goalkeeping_pen_save_pct ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     goalkeeping_pen_save_pct
+Caoimhín Kelleher            IRL        Liverpool            GK           100.00
+Jordan Pickford              ENG        Everton              GK           100.00
+Dean Henderson               ENG        Crystal Palace       GK           50.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     goalkeeping_pen_save_pct
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alex Palmer                  ENG        Ipswich Town         GK           0.00
+Alisson                      BRA        Liverpool            GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ shooting_sot_pct ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     shooting_sot_pct
+Adam Webster                 ENG        Brighton             DF           100.00
+Archie Gray                  ENG        Tottenham            DF,MF        100.00
+Conor Coady                  ENG        Leicester City       DF           100.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     shooting_sot_pct
+Aaron Cresswell              ENG        West Ham             DF           0.00
+Abdukodir Khusanov           UZB        Manchester City      DF           0.00
+Adam Lallana                 ENG        Southampton          MF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ shooting_sot_per90 ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     shooting_sot_per90
+Donyell Malen                NED        Aston Villa          FW           2.76
+Luis Sinisterra              COL        Bournemouth          FW,MF        2.29
+Jáder Durán                  COL        Aston Villa          FW           2.12
+BOTTOM 3:
+Name                         Nation     Team                 Position     shooting_sot_per90
+Aaron Cresswell              ENG        West Ham             DF           0.00
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Abdukodir Khusanov           UZB        Manchester City      DF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ shooting_goals_per_shot ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     shooting_goals_per_shot
+John Stones                  ENG        Manchester City      DF,MF        1.00
+Myles Lewis-Skelly           ENG        Arsenal              DF           0.50
+Hwang Hee-chan               KOR        Wolves               MF,FW        0.40
+BOTTOM 3:
+Name                         Nation     Team                 Position     shooting_goals_per_shot
+Aaron Cresswell              ENG        West Ham             DF           0.00
+Abdukodir Khusanov           UZB        Manchester City      DF           0.00
+Abdul Fatawu Issahaku        GHA        Leicester City       FW           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ shooting_avg_shot_dist ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     shooting_avg_shot_dist
+Ibrahim Sangaré              CIV        Nott'ham Forest      MF           32.00
+Emmanuel Agbadou             CIV        Wolves               DF           31.80
+Ryan Fraser                  SCO        Southampton          FW,DF        31.60
+BOTTOM 3:
+Name                         Nation     Team                 Position     shooting_avg_shot_dist
+Kieran Tierney               SCO        Arsenal              DF,FW        2.60
+Harry Clarke                 ENG        Ipswich Town         DF           4.50
+John Stones                  ENG        Manchester City      DF,MF        5.10
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ passing_total_completed ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     passing_total_completed
+Virgil van Dijk              NED        Liverpool            DF           2543.00
+Joško Gvardiol               CRO        Manchester City      DF           2321.00
+William Saliba               FRA        Arsenal              DF           2320.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     passing_total_completed
+Roman Dixon                  ENG        Everton              DF           11.00
+William Osula                DEN        Newcastle Utd        FW           11.00
+Albert Grønbaek              DEN        Southampton          FW,MF        13.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ passing_total_completion_pct ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     passing_total_completion_pct
+William Saliba               FRA        Arsenal              DF           94.20
+Manuel Akanji                SUI        Manchester City      DF           93.90
+Nathan Aké                   NED        Manchester City      DF           93.90
+BOTTOM 3:
+Name                         Nation     Team                 Position     passing_total_completion_pct
+Matz Sels                    BEL        Nott'ham Forest      GK           51.10
+Altay Bayındır               TUR        Manchester Utd       GK           55.50
+George Hirst                 SCO        Ipswich Town         FW           55.80
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ passing_total_total_distance ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     passing_total_total_distance
+Virgil van Dijk              NED        Liverpool            DF           46352.00
+Levi Colwill                 ENG        Chelsea              DF           40277.00
+William Saliba               FRA        Arsenal              DF           39927.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     passing_total_total_distance
+William Osula                DEN        Newcastle Utd        FW           126.00
+Albert Grønbaek              DEN        Southampton          FW,MF        135.00
+Roman Dixon                  ENG        Everton              DF           205.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ passing_ranges_short_pct ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     passing_ranges_short_pct
+Altay Bayındır               TUR        Manchester Utd       GK           100.00
+Antonín Kinský               CZE        Tottenham            GK           100.00
+Arijanet Muric               KVX        Ipswich Town         GK           100.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     passing_ranges_short_pct
+William Osula                DEN        Newcastle Utd        FW           61.50
+Paul Onuachu                 NGA        Southampton          FW           62.90
+George Hirst                 SCO        Ipswich Town         FW           66.70
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ passing_ranges_medium_pct ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     passing_ranges_medium_pct
+Alex Palmer                  ENG        Ipswich Town         GK           100.00
+Brandon Austin               ENG        Tottenham            GK           100.00
+Caoimhín Kelleher            IRL        Liverpool            GK           100.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     passing_ranges_medium_pct
+Albert Grønbaek              DEN        Southampton          FW,MF        50.00
+Beto                         GNB        Everton              FW           50.00
+George Hirst                 SCO        Ipswich Town         FW           50.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ passing_ranges_long_pct ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     passing_ranges_long_pct
+Andy Irving                  SCO        West Ham             MF           100.00
+Antony                       BRA        Manchester Utd       DF,MF        100.00
+Chiedozie Ogbene             IRL        Ipswich Town         FW           100.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     passing_ranges_long_pct
+Enes Ünal                    TUR        Bournemouth          FW,MF        0.00
+Ross Stewart                 SCO        Southampton          FW           0.00
+Tyrique George               ENG        Chelsea              FW           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ passing_expected_key_passes ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     passing_expected_key_passes
+Bruno Fernandes              POR        Manchester Utd       MF           84.00
+Cole Palmer                  ENG        Chelsea              MF           82.00
+Mohamed Salah                EGY        Liverpool            FW           82.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     passing_expected_key_passes
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alphonse Areola              FRA        West Ham             GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ passing_expected_final_third ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     passing_expected_final_third
+Virgil van Dijk              NED        Liverpool            DF           269.00
+Joško Gvardiol               CRO        Manchester City      DF           237.00
+Youri Tielemans              BEL        Aston Villa          MF           228.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     passing_expected_final_third
+Ali Al Hamadi                IRQ        Ipswich Town         FW           0.00
+Brandon Austin               ENG        Tottenham            GK           0.00
+Chiedozie Ogbene             IRL        Ipswich Town         FW           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ passing_expected_penalty_area ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     passing_expected_penalty_area
+Mohamed Salah                EGY        Liverpool            FW           86.00
+Martin Ødegaard              NOR        Arsenal              MF           81.00
+Alex Iwobi                   NGA        Fulham               FW,MF        78.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     passing_expected_penalty_area
+Abdukodir Khusanov           UZB        Manchester City      DF           0.00
+Albert Grønbaek              DEN        Southampton          FW,MF        0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ passing_expected_crosses ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     passing_expected_crosses
+Antonee Robinson             USA        Fulham               DF           28.00
+Pedro Porro                  ESP        Tottenham            DF           26.00
+Milos Kerkez                 HUN        Bournemouth          DF           23.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     passing_expected_crosses
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Abdoulaye Doucouré           MLI        Everton              MF           0.00
+Abdukodir Khusanov           UZB        Manchester City      DF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ passing_expected_progressive ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     passing_expected_progressive
+Bruno Fernandes              POR        Manchester Utd       MF           281.00
+Joško Gvardiol               CRO        Manchester City      DF           251.00
+Bruno Guimarães              BRA        Newcastle Utd        MF           247.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     passing_expected_progressive
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alisson                      BRA        Liverpool            GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ creation_sca ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     creation_sca
+Cole Palmer                  ENG        Chelsea              MF           190.00
+Bruno Fernandes              POR        Manchester Utd       MF           169.00
+Mohamed Salah                EGY        Liverpool            FW           157.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     creation_sca
+Alex McCarthy                ENG        Southampton          GK           0.00
+Altay Bayındır               TUR        Manchester Utd       GK           0.00
+Ben Mee                      ENG        Brentford            DF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ creation_sca90 ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     creation_sca90
+Philip Billing               DEN        Bournemouth          MF           7.83
+Luis Guilherme               BRA        West Ham             MF,FW        6.52
+Kevin De Bruyne              BEL        Manchester City      MF,FW        6.08
+BOTTOM 3:
+Name                         Nation     Team                 Position     creation_sca90
+Alex McCarthy                ENG        Southampton          GK           0.00
+Altay Bayındır               TUR        Manchester Utd       GK           0.00
+Ben Mee                      ENG        Brentford            DF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ creation_gca ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     creation_gca
+Mohamed Salah                EGY        Liverpool            FW           26.00
+Bukayo Saka                  ENG        Arsenal              FW,MF        22.00
+Mikkel Damsgaard             DEN        Brentford            MF,FW        21.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     creation_gca
+Aaron Cresswell              ENG        West Ham             DF           0.00
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Abdukodir Khusanov           UZB        Manchester City      DF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ creation_gca90 ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     creation_gca90
+Bukayo Saka                  ENG        Arsenal              FW,MF        1.29
+Solly March                  ENG        Brighton             FW,MF        1.08
+Amad Diallo                  CIV        Manchester Utd       FW,MF        0.93
+BOTTOM 3:
+Name                         Nation     Team                 Position     creation_gca90
+Aaron Cresswell              ENG        West Ham             DF           0.00
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Abdukodir Khusanov           UZB        Manchester City      DF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ defense_tackles ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     defense_tackles
+Idrissa Gana Gueye           SEN        Everton              MF           124.00
+Daniel Muñoz                 COL        Crystal Palace       DF           113.00
+João Gomes                   BRA        Wolves               MF           105.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     defense_tackles
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alex Palmer                  ENG        Ipswich Town         GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ defense_tackles_won ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     defense_tackles_won
+Daniel Muñoz                 COL        Crystal Palace       DF           74.00
+Idrissa Gana Gueye           SEN        Everton              MF           74.00
+Moisés Caicedo               ECU        Chelsea              MF,DF        64.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     defense_tackles_won
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alex Palmer                  ENG        Ipswich Town         GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ defense_challenges ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     defense_challenges
+Alexis Mac Allister          ARG        Liverpool            MF           104.00
+Trent Alexander-Arnold       ENG        Liverpool            DF           103.00
+João Gomes                   BRA        Wolves               MF           102.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     defense_challenges
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alex Palmer                  ENG        Ipswich Town         GK           0.00
+Armando Broja                ALB        Everton              FW           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ defense_challenges_lost ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     defense_challenges_lost
+João Gomes                   BRA        Wolves               MF           60.00
+Elliot Anderson              ENG        Nott'ham Forest      MF           57.00
+Trent Alexander-Arnold       ENG        Liverpool            DF           55.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     defense_challenges_lost
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alex Palmer                  ENG        Ipswich Town         GK           0.00
+Antonín Kinský               CZE        Tottenham            GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ defense_blocks ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     defense_blocks
+Nathan Collins               IRL        Brentford            DF           71.00
+Murillo                      BRA        Nott'ham Forest      DF           67.00
+Tyrick Mitchell              ENG        Crystal Palace       DF           62.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     defense_blocks
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alex Palmer                  ENG        Ipswich Town         GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ defense_shot_blocks ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     defense_shot_blocks
+Nathan Collins               IRL        Brentford            DF           51.00
+Dara O'Shea                  IRL        Ipswich Town         DF           47.00
+Murillo                      BRA        Nott'ham Forest      DF           44.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     defense_shot_blocks
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Abdul Fatawu Issahaku        GHA        Leicester City       FW           0.00
+Adama Traoré                 ESP        Fulham               FW,MF        0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ defense_pass_blocks ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     defense_pass_blocks
+Alexis Mac Allister          ARG        Liverpool            MF           55.00
+Antoine Semenyo              GHA        Bournemouth          FW           51.00
+Tyrick Mitchell              ENG        Crystal Palace       DF           50.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     defense_pass_blocks
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Albert Grønbaek              DEN        Southampton          FW,MF        0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ defense_interceptions ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     defense_interceptions
+Aaron Wan-Bissaka            ENG        West Ham             DF           60.00
+Antonee Robinson             USA        Fulham               DF           57.00
+Ryan Gravenberch             NED        Liverpool            MF           57.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     defense_interceptions
+Albert Grønbaek              DEN        Southampton          FW,MF        0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alex Palmer                  ENG        Ipswich Town         GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ possession_touches_total ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     possession_touches_total
+Virgil van Dijk              NED        Liverpool            DF           3125.00
+Joško Gvardiol               CRO        Manchester City      DF           2903.00
+Levi Colwill                 ENG        Chelsea              DF           2728.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     possession_touches_total
+Daniel Bentley               ENG        Wolves               GK           35.00
+Brandon Austin               ENG        Tottenham            GK           36.00
+Roman Dixon                  ENG        Everton              DF           36.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ possession_touches_def_pen ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     possession_touches_def_pen
+Mark Flekken                 NED        Brentford            GK           1338.00
+Bernd Leno                   GER        Fulham               GK           1097.00
+Bart Verbruggen              NED        Brighton             GK           1034.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     possession_touches_def_pen
+Emi Buendía                  ARG        Aston Villa          MF,FW        0.00
+Callum Wilson                ENG        Newcastle Utd        FW           1.00
+Evan Ferguson                IRL        West Ham             FW           1.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ possession_touches_def_3rd ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     possession_touches_def_3rd
+Mark Flekken                 NED        Brentford            GK           1660.00
+Jordan Pickford              ENG        Everton              GK           1494.00
+Bernd Leno                   GER        Fulham               GK           1354.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     possession_touches_def_3rd
+William Osula                DEN        Newcastle Utd        FW           2.00
+Callum Wilson                ENG        Newcastle Utd        FW           5.00
+Ali Al Hamadi                IRQ        Ipswich Town         FW           6.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ possession_touches_mid_3rd ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     possession_touches_mid_3rd
+Virgil van Dijk              NED        Liverpool            DF           1719.00
+William Saliba               FRA        Arsenal              DF           1519.00
+Joško Gvardiol               CRO        Manchester City      DF           1474.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     possession_touches_mid_3rd
+Alex McCarthy                ENG        Southampton          GK           0.00
+Brandon Austin               ENG        Tottenham            GK           0.00
+Daniel Bentley               ENG        Wolves               GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ possession_touches_att_3rd ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     possession_touches_att_3rd
+Mohamed Salah                EGY        Liverpool            FW           1023.00
+Bryan Mbeumo                 CMR        Brentford            FW           913.00
+Bruno Fernandes              POR        Manchester Utd       MF           888.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     possession_touches_att_3rd
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alex Palmer                  ENG        Ipswich Town         GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ possession_touches_att_pen ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     possession_touches_att_pen
+Mohamed Salah                EGY        Liverpool            FW           327.00
+Alexander Isak               SWE        Newcastle Utd        FW           178.00
+Antoine Semenyo              GHA        Bournemouth          FW           176.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     possession_touches_att_pen
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alex Palmer                  ENG        Ipswich Town         GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ possession_take_ons_attempted ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     possession_take_ons_attempted
+Mohammed Kudus               GHA        West Ham             FW,MF        194.00
+Jeremy Doku                  BEL        Manchester City      FW,MF        185.00
+Morgan Rogers                ENG        Aston Villa          FW,MF        153.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     possession_take_ons_attempted
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alex Palmer                  ENG        Ipswich Town         GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ possession_take_ons_success_pct ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     possession_take_ons_success_pct
+Alisson                      BRA        Liverpool            GK           100.00
+Andy Irving                  SCO        West Ham             MF           100.00
+Ayden Heaven                 ENG        Manchester Utd       DF           100.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     possession_take_ons_success_pct
+Abdukodir Khusanov           UZB        Manchester City      DF           0.00
+Albert Grønbaek              DEN        Southampton          FW,MF        0.00
+Armel Bella Kotchap          GER        Southampton          DF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ possession_take_ons_tackled_pct ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     possession_take_ons_tackled_pct
+Abdukodir Khusanov           UZB        Manchester City      DF           100.00
+Albert Grønbaek              DEN        Southampton          FW,MF        100.00
+Armel Bella Kotchap          GER        Southampton          DF           100.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     possession_take_ons_tackled_pct
+Alisson                      BRA        Liverpool            GK           0.00
+Andy Irving                  SCO        West Ham             MF           0.00
+Ayden Heaven                 ENG        Manchester Utd       DF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ possession_carries_total ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     possession_carries_total
+Joško Gvardiol               CRO        Manchester City      DF           1886.00
+Virgil van Dijk              NED        Liverpool            DF           1746.00
+William Saliba               FRA        Arsenal              DF           1675.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     possession_carries_total
+Roman Dixon                  ENG        Everton              DF           16.00
+Harry Toffolo                ENG        Nott'ham Forest      DF           17.00
+Albert Grønbaek              DEN        Southampton          FW,MF        18.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ possession_carries_prog_distance ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     possession_carries_prog_distance
+Jan Paul van Hecke           NED        Brighton             DF           6740.00
+Joško Gvardiol               CRO        Manchester City      DF           5715.00
+Rúben Dias                   POR        Manchester City      DF           5295.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     possession_carries_prog_distance
+Albert Grønbaek              DEN        Southampton          FW,MF        15.00
+Harry Toffolo                ENG        Nott'ham Forest      DF           23.00
+Massimo Luongo               AUS        Ipswich Town         MF           25.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ possession_carries_progressive ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     possession_carries_progressive
+Jeremy Doku                  BEL        Manchester City      FW,MF        189.00
+Mohamed Salah                EGY        Liverpool            FW           143.00
+Noni Madueke                 ENG        Chelsea              FW           142.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     possession_carries_progressive
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alex Palmer                  ENG        Ipswich Town         GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ possession_carries_final_third ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     possession_carries_final_third
+Alex Iwobi                   NGA        Fulham               FW,MF        102.00
+Joško Gvardiol               CRO        Manchester City      DF           92.00
+Jeremy Doku                  BEL        Manchester City      FW,MF        88.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     possession_carries_final_third
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Albert Grønbaek              DEN        Southampton          FW,MF        0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ possession_carries_penalty_area ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     possession_carries_penalty_area
+Mohamed Salah                EGY        Liverpool            FW           115.00
+Jeremy Doku                  BEL        Manchester City      FW,MF        90.00
+Noni Madueke                 ENG        Chelsea              FW           87.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     possession_carries_penalty_area
+Aaron Cresswell              ENG        West Ham             DF           0.00
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Abdukodir Khusanov           UZB        Manchester City      DF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ possession_carries_miscontrols ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     possession_carries_miscontrols
+Mohamed Salah                EGY        Liverpool            FW           109.00
+Morgan Rogers                ENG        Aston Villa          FW,MF        104.00
+Bryan Mbeumo                 CMR        Brentford            FW           99.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     possession_carries_miscontrols
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alphonse Areola              FRA        West Ham             GK           0.00
+Altay Bayındır               TUR        Manchester Utd       GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ possession_carries_dispossessed ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     possession_carries_dispossessed
+Mohammed Kudus               GHA        West Ham             FW,MF        89.00
+Bruno Guimarães              BRA        Newcastle Utd        MF           73.00
+Dejan Kulusevski             SWE        Tottenham            MF,FW        73.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     possession_carries_dispossessed
+Aaron Cresswell              ENG        West Ham             DF           0.00
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ possession_receiving_received ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     possession_receiving_received
+Virgil van Dijk              NED        Liverpool            DF           2153.00
+Joško Gvardiol               CRO        Manchester City      DF           2132.00
+William Saliba               FRA        Arsenal              DF           2056.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     possession_receiving_received
+Roman Dixon                  ENG        Everton              DF           13.00
+Daniel Bentley               ENG        Wolves               GK           14.00
+Brandon Austin               ENG        Tottenham            GK           16.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ possession_receiving_progressive ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     possession_receiving_progressive
+Mohamed Salah                EGY        Liverpool            FW           440.00
+Bryan Mbeumo                 CMR        Brentford            FW           319.00
+Alejandro Garnacho           ARG        Manchester Utd       MF,FW        281.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     possession_receiving_progressive
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alex Palmer                  ENG        Ipswich Town         GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ miscellaneous_performance_fouls ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     miscellaneous_performance_fouls
+João Gomes                   BRA        Wolves               MF           67.00
+Liam Delap                   ENG        Ipswich Town         FW           67.00
+Antoine Semenyo              GHA        Bournemouth          FW           66.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     miscellaneous_performance_fouls
+Albert Grønbaek              DEN        Southampton          FW,MF        0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alisson                      BRA        Liverpool            GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ miscellaneous_performance_fouled ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     miscellaneous_performance_fouled
+Bruno Guimarães              BRA        Newcastle Utd        MF           100.00
+Matheus Cunha                BRA        Wolves               MF,FW        69.00
+John McGinn                  SCO        Aston Villa          MF,FW        67.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     miscellaneous_performance_fouled
+Alphonse Areola              FRA        West Ham             GK           0.00
+Altay Bayındır               TUR        Manchester Utd       GK           0.00
+Andrés García                ESP        Aston Villa          DF,MF        0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ miscellaneous_performance_offsides ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     miscellaneous_performance_offsides
+Dominic Calvert-Lewin        ENG        Everton              FW           27.00
+Chris Wood                   NZL        Nott'ham Forest      FW           26.00
+Jamie Vardy                  ENG        Leicester City       FW           25.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     miscellaneous_performance_offsides
+Aaron Cresswell              ENG        West Ham             DF           0.00
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Abdukodir Khusanov           UZB        Manchester City      DF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ miscellaneous_performance_crosses ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     miscellaneous_performance_crosses
+Pedro Porro                  ESP        Tottenham            DF           191.00
+Bryan Mbeumo                 CMR        Brentford            FW           182.00
+Bruno Fernandes              POR        Manchester Utd       MF           172.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     miscellaneous_performance_crosses
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+Alex Palmer                  ENG        Ipswich Town         GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ miscellaneous_performance_recoveries ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     miscellaneous_performance_recoveries
+Moisés Caicedo               ECU        Chelsea              MF,DF        203.00
+Elliot Anderson              ENG        Nott'ham Forest      MF           197.00
+Bruno Fernandes              POR        Manchester Utd       MF           192.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     miscellaneous_performance_recoveries
+Altay Bayındır               TUR        Manchester Utd       GK           0.00
+Brandon Austin               ENG        Tottenham            GK           1.00
+Daniel Bentley               ENG        Wolves               GK           1.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ miscellaneous_aerials_won ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     miscellaneous_aerials_won
+Dan Burn                     ENG        Newcastle Utd        DF           134.00
+Nathan Collins               IRL        Brentford            DF           112.00
+Virgil van Dijk              NED        Liverpool            DF           111.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     miscellaneous_aerials_won
+Andrés García                ESP        Aston Villa          DF,MF        0.00
+Antony                       BRA        Manchester Utd       DF,MF        0.00
+Billy Gilmour                SCO        Brighton             MF           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ miscellaneous_aerials_lost ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     miscellaneous_aerials_lost
+Chris Wood                   NZL        Nott'ham Forest      FW           129.00
+Jean-Philippe Mateta         FRA        Crystal Palace       FW           99.00
+Jørgen Strand Larsen         NOR        Wolves               FW           96.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     miscellaneous_aerials_lost
+Aaron Ramsdale               ENG        Southampton          GK           0.00
+Albert Grønbaek              DEN        Southampton          FW,MF        0.00
+Alex McCarthy                ENG        Southampton          GK           0.00
+--------------------------------------------------------------------------------------------------
+
+╞════════════════════════════════════════ miscellaneous_aerials_win_pct ════════════════════════════════════════╡
+TOP 3:
+Name                         Nation     Team                 Position     miscellaneous_aerials_win_pct
+Aaron Ramsdale               ENG        Southampton          GK           100.00
+Albert Grønbaek              DEN        Southampton          FW,MF        100.00
+Alex McCarthy                ENG        Southampton          GK           100.00
+BOTTOM 3:
+Name                         Nation     Team                 Position     miscellaneous_aerials_win_pct
+Andrés García                ESP        Aston Villa          DF,MF        0.00
+Antony                       BRA        Manchester Utd       DF,MF        0.00
+Emi Buendía                  ARG        Aston Villa          MF,FW        0.00
+--------------------------------------------------------------------------------------------------
